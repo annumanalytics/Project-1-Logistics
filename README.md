@@ -16,7 +16,7 @@ This projects solves critical facility location challenges for expanding enterpr
 * **Frontend Analytics Dashboard:** Streamlit UI Framework
 * **Data Processing:** Pandas & NumPy arrays
 
-## Local Execution Deployment
+## How to Run Locally
 1. Clone this project repository to your workspace.
 2. Install the production requirements: 'pip install -r requirements.txt'
 3. Launch the visual analytics engine: 'streamlit run src/app.py'
